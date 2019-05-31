@@ -1,0 +1,1 @@
+- Loads mario character sprite for the state (small, walking)
